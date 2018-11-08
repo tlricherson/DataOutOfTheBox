@@ -1,5 +1,5 @@
 # Data Out of the Box
-##### WERA 2018 | Session description
+#### WERA 2018 | Session description
 One of the promises of our abundance of data is its democratization—the ability for anyone to access and share the stories found within the data. However, this work requires a basic level of data literacy that many may not have. Physical representations of data offer an approach to developing literacy that is more intuitive than digital tools, and can engage diverse audiences in communicating with and reacting to data. In this session, we will share strategies that bring your data out of the box and onto the table as a way to foster public engagement and promote new conversations.
 
 ## Build background knowledge
