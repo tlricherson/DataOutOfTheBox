@@ -2,7 +2,7 @@
 Research articles, links, and other resources to support data physicalization
 
 ## Build background knowledge
-* Start with the [Data Physicalization Wiki](http://dataphys.org/wiki/Data_Physicalization) for an overview of these ideas.
+* Start with the [Data Physicalization Wiki](http://dataphys.org/wiki/Data_Physicalization) for an overview.
 
 ## Toolkits and workshop materials
 * Shannon Mattern and Jonas Voigt have posted their materials for an [Urban Intelligence workshop](http://www.wordsinspace.net/urbanintel/spring2018/portfolio/march-14-observing-operationalizing-spatial-intelligences-ii-illustrations-interfaces-kits-guides/), including illustrations, interfaces, kits and guides. 
