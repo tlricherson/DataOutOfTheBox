@@ -1,4 +1,4 @@
-# Research
+# Literature Review
 
 Bhargava, R., & D’Ignazio, C. (2017). [Data Sculptures as a Playful and Low-Tech Introduction to Working with Data](https://dam-prod.media.mit.edu/x/2018/01/11/Data_Phys_2017_Workshop.pdf). Presented at the Designing Interactive Systems, Edinburgh, Scotland.
 
