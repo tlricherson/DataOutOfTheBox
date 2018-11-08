@@ -5,6 +5,7 @@ Research articles, links, and other resources to support data physicalization
 * Start with the [Data Physicalization Wiki](http://dataphys.org/wiki/Data_Physicalization) for an overview.
 
 ## Toolkits and workshop materials
+* Rahul Bhargava and the crew at MIT's Center for Civic Media Engagement have a host of activities you can access and adapt under a Creative Commons license. Check out the [Data Therapy](https://datatherapy.org/about/) site for more.
 * Shannon Mattern and Jonas Voigt have posted their materials for an [Urban Intelligence workshop](http://www.wordsinspace.net/urbanintel/spring2018/portfolio/march-14-observing-operationalizing-spatial-intelligences-ii-illustrations-interfaces-kits-guides/), including illustrations, interfaces, kits and guides. 
 * Materials from the [Considering Physical Variables for Data Physicalization Workshop](https://data-physicalisation.github.io/).
 * Visualising Information for Advocacy is a [book about how advocates and activists use visual elements in their campaigns](https://visualisingadvocacy.org/). This 160-page guide features nearly 50 case studies from around the world to provide an introduction to understanding visual information and a framework for using images for influence.
