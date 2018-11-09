@@ -16,6 +16,8 @@ Dalton, C. M., Taylor, L., & Thatcher, J. (2016). [Critical data studies: A dial
 
 D’Ignazio C (2017) [Creative data literacy: Bridging the gap between the data-haves and data-have nots](https://benjamins.com/catalog/idj.23.1.03dig/fulltext/idj.23.1.03dig.pdf). Information Design Journal 23(1): 6–18.
 
+Hautea, S., Dasgupta, S., & Hill, B. M. (2017, May). [Youth perspectives on critical data literacies](http://delivery.acm.org/10.1145/3030000/3025823/p919-hautea.pdf?ip=216.186.17.10&id=3025823&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E271219718FC64246&__acm__=1541777066_0a23e90a04f2d6e6f1739aae6e8dedec). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 919-930). ACM.
+
 Hogan, T., Hinrichs, U., & Hornecker, E. (2017, June). [The visual and beyond: Characterizing experiences with auditory, haptic and visual data representations](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/10978/trevor_dis_17_final.pdf?sequence=1&isAllowed=y). In Proceedings of the 2017 Conference on Designing Interactive Systems (pp. 797-809). ACM.
 
 Hogan, T. (2012). [Toward a Phenomenology of Human-Data Relations](www.academia.edu/download/25917044/Trevor_HoganDIS12_DC.pdf).
@@ -29,6 +31,8 @@ Huron, S., Carpendale, S., Thudt, A., Tang, A., & Mauerer, M. (2014, June). [Con
 Jansen, Y., Dragicevic, P., Isenberg, P., Alexander, J., Karnik, A., Kildal, J., ... & Hornbæk, K. (2015, April). [Opportunities and challenges for data physicalization](https://hal.inria.fr/hal-01120152/document). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3227-3236). ACM.
 
 Jofre, A., Szigeti, S., & Diamond, S. (2016). [Citizen engagement through tangible data representation](http://openresearch.ocadu.ca/id/eprint/1077/1/Jofre_Citizen_2015.pdf). Foro de Educación, 14(20), 305-325.
+
+Kennedy, H., & Hill, R. L. (2018). [The feeling of numbers: Emotions in everyday engagements with data and their visualisation](http://eprints.whiterose.ac.uk/106567/3/KENNEDY%20HILL%20Feeling%20Numbers.pdf). Sociology, 52(4), 830-848.
 
 Kim, Y. S., Reinecke, K., & Hullman, J. (2018). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://users.eecs.northwestern.edu/~jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization & Computer Graphics, (1), 1-1.
 
