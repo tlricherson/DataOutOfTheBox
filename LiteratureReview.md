@@ -29,11 +29,15 @@ D’Ignazio C (2017) [Creative data literacy: Bridging the gap between the data-
 
 Hautea, S., Dasgupta, S., & Hill, B. M. (2017, May). [Youth perspectives on critical data literacies](http://delivery.acm.org/10.1145/3030000/3025823/p919-hautea.pdf?ip=216.186.17.10&id=3025823&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E271219718FC64246&__acm__=1541777066_0a23e90a04f2d6e6f1739aae6e8dedec). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 919-930). ACM.
 
+Ku, P., Mulder, I., & Kortuem, G. (2018). [Data Exploration for Generative Design Research](http://vbn.aau.dk/ws/files/281951521/drs2018_565_camera_ready_kun_mulder_kortuem.pdf). In Design Research Society 2018Design Research Society (pp. 1342-1345). Design Research Society.
+
 Welles, B. F. (2014). [On minorities and outliers: The case for making Big Data small](https://journals.sagepub.com/doi/pdf/10.1177/2053951714540613). Big Data & Society, 1(1), 2053951714540613.
 
 
 ## Community
 Cantù, D., & Selloni, D. (2013). [From engaging to empowering people: a set of co-design experiments with a service design perspective](http://www.simpact-project.eu/publications/scientific/SelloniCantu_Engagement.pdf).
+
+Chueng-Nainby, P., & Lee, J. [Transformative Learning: Co-design with Communities’ Collective Imagery as Data for Social Innovation](https://s3.amazonaws.com/academia.edu.documents/56284326/DRS_pnainby_jlee_transformativelearning_Final.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1543877652&Signature=M3GDQSoEN%2F8juSDKD9Ay%2Ftq11sI%3D&response-content-disposition=inline%3B%20filename%3DTransformative_Learning_Co-design_with_C.pdf).
 
 David, S., Sabiescu, A. G., & Cantoni, L. (2013, November). [Co-design with communities. A reflection on the literature](https://www.researchgate.net/profile/Salomao_Cumbula/publication/257998124_Co-design_with_communities_A_reflection_on_the_literature/links/00b7d526926461062e000000.pdf). In Proceedings of the 7th International Development Informatics Association Conference (IDIA) (pp. 152-166).
 
