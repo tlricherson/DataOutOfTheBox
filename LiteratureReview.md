@@ -55,6 +55,8 @@ Bhargava, R., & D’Ignazio, C. (2017). [Data Sculptures as a Playful and Low-Te
 
 Bhargava, R., & D’Ignazio, C. (2015). [Designing Tools and Activities for Data Literacy Learners](https://pdfs.semanticscholar.org/1215/7fe54d862929e301f7fdb2c6233c1ae4502a.pdf). In Workshop on Data Literacy, Webscience.
 
+Hegg, J. C., Middleton, J., Robertson, B. L., & Kennedy, B. P. (2018). [The sound of migration: exploring data sonification as a means of interpreting multivariate salmon movement datasets](https://www.sciencedirect.com/science/article/pii/S2405844017317188). Heliyon, 4(2), e00532.
+
 Hogan, T., & Hornecker, E. (2017). [Towards a design space for multisensory data representation](http://tactiledata.net/wp-content/uploads/2012/05/iww015.pdf). Interacting with Computers, 29(2), 147-167.
 
 Huron, S., Jansen, Y., & Carpendale, S. (2014). [Constructing visual representations: Investigating the use of tangible tokens](https://hal.archives-ouvertes.fr/docs/01/02/40/53/PDF/00_Camera_ready_IEEE.pdf). IEEE transactions on visualization and computer graphics, 20(12), 2102-2111.
