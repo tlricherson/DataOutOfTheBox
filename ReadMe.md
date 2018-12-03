@@ -20,3 +20,4 @@ Use the links below or on the other pages to support your next steps in using da
 * Check out a community-based example from Barcelona and consider the reasons wy [Smart Cities Need Thick Data, Not Big Data](https://www.researchgate.net/profile/Adrian_Smith15/publication/326849902_Smart_cities_need_thick_data_not_big_data/links/5b8651bd92851c1e12390bb0/Smart-cities-need-thick-data-not-big-data.pdf?origin=publication_detail). 
 * Visit Trevor Hogan's site on [Tactile Data](http://tactiledata.net/) to see a variety of data physicalization ideas in action.
 * See how [GM Is Saving Cash Using Legos As A Data Viz Tool](https://www.fastcompany.com/1669468/how-gm-is-saving-cash-using-legos-as-a-data-viz-tool).
+* Moritz Stefaner has been leading the [Data Cuisine](http://data-cuisine.net/) project over several years. 
