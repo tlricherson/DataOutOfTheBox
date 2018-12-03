@@ -33,6 +33,10 @@ Welles, B. F. (2014). [On minorities and outliers: The case for making Big Data 
 
 
 ## Community
+Cantù, D., & Selloni, D. (2013). [From engaging to empowering people: a set of co-design experiments with a service design perspective](http://www.simpact-project.eu/publications/scientific/SelloniCantu_Engagement.pdf).
+
+David, S., Sabiescu, A. G., & Cantoni, L. (2013, November). [Co-design with communities. A reflection on the literature](https://www.researchgate.net/profile/Salomao_Cumbula/publication/257998124_Co-design_with_communities_A_reflection_on_the_literature/links/00b7d526926461062e000000.pdf). In Proceedings of the 7th International Development Informatics Association Conference (IDIA) (pp. 152-166).
+
 Jofre, A., Szigeti, S., & Diamond, S. (2016). [Citizen engagement through tangible data representation](http://openresearch.ocadu.ca/id/eprint/1077/1/Jofre_Citizen_2015.pdf). Foro de Educación, 14(20), 305-325.
 
 Kim, Y. S., Reinecke, K., & Hullman, J. (2018). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://users.eecs.northwestern.edu/~jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization & Computer Graphics, (1), 1-1.
